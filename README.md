@@ -1,10 +1,14 @@
 # ChaCha20 Algorithm: C and C++ Implementations
 
-[![License](https://img.shields.io/github/license/MrkFrcsl98/ChaCha20_Algorithm)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/MrkFrcsl98/ChaCha20_Algorithm?style=social)](https://github.com/MrkFrcsl98/ChaCha20_Algorithm/stargazers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/MrkFrcsl98/ChaCha20_Algorithm)](https://github.com/MrkFrcsl98/ChaCha20_Algorithm/commits/main)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)
-
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![C++17 Ready](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/17)
+[![C99 Ready](https://img.shields.io/badge/C-99-blue.svg)](https://en.cppreference.com/w/c/99)
+[![ChaCha20 Algorithm](https://img.shields.io/badge/algorithm-ChaCha20-lightgrey.svg)](https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant)
+[![Key Sizes: 256-bit](https://img.shields.io/badge/key%20size-256--bit-green.svg)](https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant)
+[![Nonce Sizes: 96/192-bit](https://img.shields.io/badge/nonce%20size-96/192--bit-green.svg)](https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant)
+[![Type: Stream Cipher](https://img.shields.io/badge/type-stream--cipher-important.svg)](https://en.wikipedia.org/wiki/Stream_cipher)
+[![Header-only (C++)](https://img.shields.io/badge/header--only-yes-critical.svg)](https://github.com/MrkFrcsl98/ChaCha20_Algorithm/tree/main/c++)
+[![Status: Educational](https://img.shields.io/badge/status-educational-important.svg)](#security-notes)
 ---
 
 ## Table of Contents
